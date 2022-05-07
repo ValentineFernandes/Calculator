@@ -1,6 +1,6 @@
 # Calculator
-  * is a website where users can perform calculations
-  * is mobile friendly website
+✅ is a website where users can perform calculations<br/>
+✅ is mobile friendly website
 <img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" />
 
 # Technologies used
@@ -19,3 +19,10 @@
 
 # License
 This project is under <a href="https://github.com/ValentineFernandes/Calculator/blob/main/LICENSE">MIT</a> license.
+
+# Contribution
+If you liked the project :<br/>
+✅ Give a star. ⭐ <br/>
+✅ Fork the repository.<br/>
+✅ Clone the project to your own computer.<br/>
+✅ Commit changes.
