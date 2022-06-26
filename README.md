@@ -1,7 +1,12 @@
-# Calculator
-✅ is a website where users can perform calculations<br/>
-✅ is mobile friendly website
-<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" />  
+<h1 align="center">Calculator</h1>
+
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/calculators.jpg" />  
+</div>
+
+# Features
+✅ This is a website where users can perform calculations.<br/>
+✅ It is mobile friendly website.
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
