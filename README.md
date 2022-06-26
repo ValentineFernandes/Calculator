@@ -1,5 +1,20 @@
 <h1 align="center">Calculator</h1>
 
+<p align="center">	
+   <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
+      <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-1AD043?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a href="https://github.com/ValentineFernandes/Calculator/blob/main/License">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/Calculator?color=#1AD043" />
+  </a>
+  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/Calculator?color=#1AD043" />
+  <img alt="Stars" src= "https://img.shields.io/github/stars/ValentineFernandes/Calculator?color=#1AD043" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/ValentineFernandes/Calculator?color=#1AD043" />
+<img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/Calculator?color=#1AD043" />
+<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/Calculator?color=#1AD043" />
+</p>
+
+
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/calculators.jpg" />  
 </div>
